@@ -4,6 +4,8 @@
 
 ### [Day 2](https://github.com/freecodingbootcamp/Week-3/tree/master/Day-2):
 
+- GIT fork versus clone, HTML/CSS better practices, Git commands
+
 ### [Day 3](https://github.com/freecodingbootcamp/Week-3/tree/master/Day-3):
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-3/tree/master/Day-4):
