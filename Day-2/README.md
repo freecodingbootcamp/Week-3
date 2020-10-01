@@ -1,7 +1,5 @@
 # Week-3 -- Day-2
 
-# Week-3 -- Day-2
-
 ## GIT
 
 ### When do we fork a repo and when do we clone a repo?
