@@ -12,4 +12,6 @@
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-3/tree/master/Day-4):
 
+- Git and Naming Good Practices, Help I Don't See the Git Instructions, Oh no I Received a Merge Conflict Message  
+
 ### [Day 5](https://github.com/freecodingbootcamp/Week-3/tree/master/Day-5):
