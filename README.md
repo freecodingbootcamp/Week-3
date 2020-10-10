@@ -15,3 +15,5 @@
 - Git and Naming Good Practices, Help I Don't See the Git Instructions, Oh no I Received a Merge Conflict Message  
 
 ### [Day 5](https://github.com/freecodingbootcamp/Week-3/tree/master/Day-5):
+
+- Creating a simple bootstrap navigation bar 
